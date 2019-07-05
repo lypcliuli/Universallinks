@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YY9WCXJXOF.com.myApp.app",
+        "paths": ["/deaplink","/wwdc/news/","*"]
+      },
+      {
+        "appID": "3434307520.com.myApp.app",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
