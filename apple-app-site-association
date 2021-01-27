@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "YY9WCXJXOF.com.myApp.app",
-        "paths": ["/deaplink","/wwdc/news/","*"]
+        "paths": ["/deaplink","/wwdc/news/","*","/qq_conn/1105758047/*"]
       },
       {
         "appID": "3434307520.com.myApp.app",
-        "paths": [ "*" ]
+        "paths": [ "*","/qq_conn/1105758047/*" ]
       }
     ]
   }
